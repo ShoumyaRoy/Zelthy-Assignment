@@ -1,6 +1,6 @@
 # Zelthy-Assignment
 
-Problem Statement 1:
+Problem Statement 1:  
 Write a python class that is able to send an email from the terminal to a given email address
 using smtplib library.
 
