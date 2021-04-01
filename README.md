@@ -1,14 +1,14 @@
 # Zelthy-Assignment
 
-Problem Statement 1:  
+Problem Statement 1: (send_email.py)  
 Write a python class that is able to send an email from the terminal to a given email address
 using smtplib library.
 
-Problem Statement 2:
+Problem Statement 2: (dictionary_search.py)  
 Write a python class that is able to return the meaning of an English language word provided to it
 in the terminal. (Use https://dictionaryapi.dev/)
 
-Problem Statement 3:
+Problem Statement 3:(city_distance.py)  
 Write a python class that is able to return the flight distance between two cities given their
 latitude and longitude coordinates.
 
